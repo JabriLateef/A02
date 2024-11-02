@@ -1,5 +1,18 @@
 # A02
+# AO2
 
+#Part 1
+How to use webstorm
+1. download Webstorm Download Link: https://www.jetbrains.com/community/education/#students
+2. download git, Download Link: https://git-scm.com/downloads
+3. create an account on GitHub
+4. Connect Github with webstorm by accessing system prefences, selecting version control git, and entering the path to git.exe
+5. Create a password to webstorm
+   
+How to create a Repository in GitHub and webstorm
+1. click the plus sign in the upper right corner
+2. Click Create New Repository
+3. On Webstorm, click VCS and import into the version control
 
 #Part 2
 
